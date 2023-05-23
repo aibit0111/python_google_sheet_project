@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "focus-healer-387310",
+  "private_key_id": "a53cb7807b37b76cbc3153525930cabc413c4077",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCsVuyeP9urf+cQ\n2cbh5pE1RtBSIngtVhmSfEPN5NczegBK5UPjum6ocwbXPBwr4uyMqnPArv3YhcfQ\nXLukhTtEWhJs88tzS4O/U9ixR042cwKiEnBIIs5H1X7VA/BZ7LTGskVHPhOUZN19\n3WTJ6WaUyxvWW4RtyJ62lWi44vE4DhNPu7tjUQWq/P7uRuOT9T8jQyBvczVrdD0c\n3iF4OLaOQzasxiCaOn3kCkljfYIhkbS40Yu3E7wNKqq57z1M03Ly008sJ3E5k9Ws\n0LscIqd5uAHB4Fxaei2hlxJ3zKqauAW7T6VFujpCe6c86N/yE5RguqPALl8qRLiW\n+iEl4hv/AgMBAAECggEACmGlbkuizsbCeLmNqUpWK/NAlaSy6umOr8whhNPIrOFS\nsYWfByb8sdQABlN+JPH4quk9AM8/G7MaBsYB8wFS68/7NSn4cvu1C3+gWYmAlMzC\nd1iMqqPCG6yo2mnFfufrOd7qR8YzBWjlY3FvOASBzpZvmQQ5StMKJdiD5ENIzEYJ\n+j1r8W+GfNhuLDrrNqhqHwRJBmWh+NU86xD1HZ6x+HFALA7W8PNUZwbd7dLlMT1q\n5bv/TBlbtpb7G8JHcxGjlHfgE2FO6Zvzvlrs/rlP4pWLdTWkU5CNaS2+wD2W0CkZ\nSmIw40UTYLTWP8I4XWQGgSTLPYlOMu+kjZ4+f9kPnQKBgQDr2vjZMwjOMNKbvyLs\nL6La720pKkdDNVZjKbBC39OKEpkp311PJHKaFTHulKC6QfSWxhrDjReu35Suzrkf\n6HuaxsB/V/qP2ZvdB/jKQ3t0QzEhDAJU6OzBp54NFjaz+p0G2p9yimB8KZkWp4SF\nBexUOZs3xs8IsQm9pSMdDcmznQKBgQC7DypYAv1K39wYjBG6Db6ZzUnU5qYaMOTK\n4AwE4bRoypxAh3vA0bQh3SMPULdtt+kFUYk5yf33PfJjGuxqO7ChUQnWslrhVkWt\nQG4Ga15DYIpl+TP9ktkFzA1HcDJ/VhyFzRWe8LMGiH3980/rtzmId2drN8BBi48/\neDwlYuxhSwKBgQDRqNvhqD5BnKD7llNjBY2NdZziJRUoJ3fduqdXK0UOzi2dTVPT\nEKFXW1QBs9mU+SCGDyCniPrulw3Cvz1NogqOsfNYwEqaKWUmfPmqQ4aw+THpIJXK\nCSy9kVUsaPzDzRpdh2aKGXxfo1LVEqD45yUIUhUq5e4Q2d/A19V49FLC+QKBgDlA\n5An6KEKxj/EndgmHSW5TyiRS0EY17uE1gBhCaPCmCvspPLSAuuyefaujXfFEGBtb\noG/Cpmv1VuoEhJXjXSWS4zsGbhCIUl072jE2zaw7sUCS7NnRB4HhubLC4YHd/m7p\nnZN/QpxeTInc3fpco0xkl4/WiY7GQ3r+txIOXCFPAoGALKs4qcr4Ol8SkfXOHmYw\nhQwSUceNRaGjlTe4YK911qVnxu4veBcl+UaeyBgo7nyzY5P5aeZUdjUELxaqhUjd\n6USpaD5mscNIdVL4fOGmAVTBsBhqdvPT+JsnMtS5ScQeMvPOTZCJln1loLdTRWgo\nTZUpJs/Sf7KEo4Y9PfVF1UA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mohit-978@focus-healer-387310.iam.gserviceaccount.com",
+  "client_id": "112168627551898072881",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mohit-978%40focus-healer-387310.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
